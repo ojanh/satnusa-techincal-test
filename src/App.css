@@ -1,0 +1,31 @@
+
+.container {
+   margin-left: 1rem;
+   margin-right: 1rem;
+   margin-top: .75rem;
+}
+
+.container-search {
+   display: flex;
+   flex-direction: row;
+}
+
+.search-input {
+   width: 10%;
+   padding: .5rem .5rem;
+   border-radius: 5px;
+}
+
+.table {
+   table-layout: fixed;
+}
+
+.column-text {
+   font-size: 15px;
+   margin-bottom: .2rem;
+   padding-right: 0.75rem;
+}
+
+.no-data {
+   text-align: center;
+}
